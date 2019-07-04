@@ -80,7 +80,7 @@
     <easymock.version>3.4</easymock.version>
     <felix.scr.annotations.version>1.9.8</felix.scr.annotations.version>
     <generex.version>0.0.4</generex.version>
-    <jackson.version>2.7.0</jackson.version>
+    <jackson.version>2.9.9.1</jackson.version>
     <junit.version>4.12</junit.version>
     <kubernetes.model.version>1.0.45</kubernetes.model.version>
     <log4j.version>2.5</log4j.version>
@@ -104,16 +104,16 @@
     <exec.master>https://localhost:8443</exec.master>
 
     <javadoc.include.deps>false</javadoc.include.deps>
-    <javadoc.source.includes />
-    <javadoc.package.excludes />
+    <javadoc.source.includes/>
+    <javadoc.package.excludes/>
 
-    <osgi.import />
-    <osgi.export />
-    <osgi.private />
-    <osgi.dynamic.import />
-    <osgi.bundles />
-    <osgi.activator />
-    <osgi.export.service />
+    <osgi.import/>
+    <osgi.export/>
+    <osgi.private/>
+    <osgi.dynamic.import/>
+    <osgi.bundles/>
+    <osgi.activator/>
+    <osgi.export.service/>
   </properties>
 
   <modules>
